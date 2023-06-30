@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Northwind.Business",
+    "\\Northwind.DataAccess",
+    "\\Northwind.DataAccess\\Abstract",
+    "\\Northwind.WebFormsUI"
+  ],
+  "SelectedNode": "\\Northwind.DataAccess\\Abstract\\IEntityRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
